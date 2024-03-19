@@ -1,7 +1,7 @@
-package Homewok4;
+package Homework4;
 
-import Homewok4.gb_collections.GbList;
-import Homewok4.gb_collections.lists.GbLinkedList;
+import Homework4.gb_collections.GbList;
+import Homework4.gb_collections.lists.GbLinkedList;
 
 public class Main {
     public static void main(String[] args) {

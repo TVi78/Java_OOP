@@ -1,10 +1,10 @@
-package Homewok4.gb_collections.lists;
+package Homework4.gb_collections.lists;
 
 import java.util.Iterator;
 
-import Homewok4.gb_collections.GbList;
-import Homewok4.gb_collections.lists.util.ArrayIterator;
-import Homewok4.gb_collections.lists.util.Node;
+import Homework4.gb_collections.GbList;
+import Homework4.gb_collections.lists.util.ArrayIterator;
+import Homework4.gb_collections.lists.util.Node;
 
 public class GbLinkedList<E> implements GbList<E> {
     int size = 0;

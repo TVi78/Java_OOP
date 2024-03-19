@@ -1,4 +1,4 @@
-package Homewok4.gb_collections;
+package Homework4.gb_collections;
 
 public interface GbList<T> extends Iterable<T> {
     void add(T value);

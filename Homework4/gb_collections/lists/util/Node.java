@@ -1,4 +1,4 @@
-package Homewok4.gb_collections.lists.util;
+package Homework4.gb_collections.lists.util;
 
 /**
  * Node

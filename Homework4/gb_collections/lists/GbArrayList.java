@@ -1,9 +1,9 @@
-package Homewok4.gb_collections.lists;
+package Homework4.gb_collections.lists;
 
 import java.util.Iterator;
 
-import Homewok4.gb_collections.GbList;
-import Homewok4.gb_collections.lists.util.ArrayIterator;
+import Homework4.gb_collections.GbList;
+import Homework4.gb_collections.lists.util.ArrayIterator;
 
 public class GbArrayList<E> implements GbList<E> {
 
