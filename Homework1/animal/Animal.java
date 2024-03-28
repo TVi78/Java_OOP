@@ -1,7 +1,5 @@
 package Homework1.animal;
 
-import java.time.LocalDate;
-
 public class Animal {
     protected String name;
 
